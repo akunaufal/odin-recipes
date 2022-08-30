@@ -1,0 +1,44 @@
+body {
+	background-image: url('images/abstract-organic.webp');
+}
+
+h1 {
+	font-family: Tahoma, sans-serif;
+	color: palevioletred;
+	font-size: 50px;
+	text-align: center;
+}
+
+img {
+	display: block;
+	height: auto;
+	width: 600px;
+	margin: auto auto;
+}
+
+ul {
+	list-style-type: none;
+	display: block;
+	margin: auto;
+	width: 600px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+a:link {
+	font-family: Tahoma, sans-serif;
+	text-decoration: none;
+	color: palevioletred;
+}
+
+a:visited {
+	color: palevioletred;
+}
+
+a:hover {
+	color: black;
+}
+
+a:active {
+	color: red;
+}

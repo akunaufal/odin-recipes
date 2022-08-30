@@ -1,0 +1,70 @@
+body {
+	background-image: url('images/abstract-organic.webp');
+}
+
+h1 {
+	font-family: Tahoma, sans-serif;
+	color: palevioletred;
+	font-size: 50px;
+	text-align: center;
+}
+
+h3 {
+	font-family: Tahoma, sans-serif;
+	color: palevioletred;
+	font-size: 30px;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
+	height: 400px;
+	width: ;
+}
+
+p {
+	width: 600px;
+	display: block;
+	margin:  auto;
+	background-color: floralwhite;
+}
+
+ul {
+	width: 600px;
+	display: block;
+	margin: auto;
+	background-color: floralwhite;
+}
+
+ol {
+	width: 600px;
+	display: block;
+	margin: auto;
+	background-color: floralwhite;
+}
+
+a {
+	display: block;
+	width: 200px;
+	margin: auto;
+	margin-top: 10px;
+}
+
+a:link {
+	font-family: Tahoma, sans-serif;
+	text-decoration: none;
+	color: palevioletred;
+}
+
+a:visited {
+	color: palevioletred;
+}
+
+a:hover {
+	color: black;
+}
+
+a:active {
+	color: red;
+}
